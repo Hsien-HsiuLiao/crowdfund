@@ -1,3 +1,5 @@
 /test-ledger
 
-/rust/target
+/program-rust/target
+
+/client/node_modules
