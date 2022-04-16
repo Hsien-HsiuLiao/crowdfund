@@ -3,3 +3,5 @@
 /program-rust/target
 
 /client/node_modules
+
+keypair.json
